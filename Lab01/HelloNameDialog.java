@@ -1,3 +1,5 @@
+//Nguyen Van Cuong - 20215006
+//Example 3: HelloNameDialog.java
 import javax.swing.JOptionPane;
 public class HelloNameDialog {
     public static void main(String[] args){

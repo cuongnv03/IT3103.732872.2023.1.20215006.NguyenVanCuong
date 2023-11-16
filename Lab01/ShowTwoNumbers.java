@@ -1,3 +1,5 @@
+//Nguyen Van Cuong - 20215006
+//Example 4: ShowTwoNumbers.java
 import javax.swing.JOptionPane;
 public class ShowTwoNumbers {
     public static void main(String[] args){
