@@ -1,4 +1,5 @@
-package hust.soict.hedspi.aims.media;
+package media;
+
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,7 +1,8 @@
-package hust.soict.hedspi.aims;
+import media.*;
+
 import java.util.ArrayList;
 import java.util.List;
-import hust.soict.hedspi.aims.media.*;
+
 public class Cart {
     
     public static final int MAX_NUMBERS_ORDERED = 20;

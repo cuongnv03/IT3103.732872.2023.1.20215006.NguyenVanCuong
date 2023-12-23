@@ -1,4 +1,4 @@
-package hust.soict.hedspi.aims.media;
+package media;
 
 public class Disc extends Media {
 	private String director;

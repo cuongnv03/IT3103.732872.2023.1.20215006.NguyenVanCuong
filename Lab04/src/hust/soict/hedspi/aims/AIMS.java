@@ -1,8 +1,6 @@
-package hust.soict.hedspi.aims;
-
-import hust.soict.hedspi.aims.media.*;
+import media.*;
 import java.util.Scanner;
-public class Aims {
+public class AIMS {
 	private static String mediaTitle;
 	public static Scanner scanner = new Scanner(System.in);
 	public static Store aStore; 
